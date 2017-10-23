@@ -19,7 +19,7 @@ Si querés proponer un charla, adelante!
 
 # Ediciones anteriores 🔙
 
-Si queres ver vídeos de las meetups pasadas, el material presentado o cualquier material relevante vinculado a las mismas, [entra acá](https://github.com/golang-argentina/meetup/blob/master/history/README.md).
+Si queres ver vídeos de las meetups pasadas, los slides presentados o cualquier material relevante vinculado a las mismas, [entra acá](https://github.com/golang-argentina/meetup/blob/master/history/README.md).
 
 
 # Contacto 📝 
